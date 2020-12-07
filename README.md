@@ -2,6 +2,12 @@
 
 A Flutter application to demonstrate how to add an animated splash screen natively.
 
+## Demo
+
+:-------------------------:|:-------------------------:
+![android](/demo/android.gif)    |  ![ios](/demo/ios.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
